@@ -20,6 +20,8 @@ langchain-nomic==0.1.4
     # via nan-medium-material (pyproject.toml)
 langgraph==0.3.21
     # via nan-medium-material (pyproject.toml)
+lettucedetect==0.1.6
+    # via nan-medium-material (pyproject.toml)
 markdown==3.7
     # via nan-medium-material (pyproject.toml)
 mlx-vlm==0.1.21
