@@ -5,5 +5,22 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "docling-core>=2.25.0",
+    "duckduckgo-search>=2025.4.1",
+    "einops>=0.8.1",
     "ipykernel>=6.29.5",
+    "langchain>=0.3.22",
+    "langchain-community>=0.3.20",
+    "langchain-groq>=0.3.2",
+    "langchain-huggingface>=0.1.2",
+    "langchain-nomic>=0.0.1",
+    "langgraph>=0.3.21",
+    "markdown>=3.7",
+    "mlx-vlm>=0.1.21",
+    "pdf2image>=1.17.0",
+    "pillow>=11.1.0",
+    "protobuf==3.20.3",
+    "scikit-learn>=1.6.1",
+    "tiktoken>=0.9.0",
+    "unstructured>=0.17.2",
 ]
